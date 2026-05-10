@@ -1,4 +1,4 @@
 # apna-college-Demo
-This is my First git repositories
-Author: -  AyuSH Prajapati 
+This is my First git repository
+Author: -  Ayush Prajapati 
 
